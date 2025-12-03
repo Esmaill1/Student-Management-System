@@ -1,8 +1,0 @@
-flask
-bcrypt
-flask-login
-flask-wtf
-email_validator
-flask-sqlalchemy
-tabulate
-datetime 
