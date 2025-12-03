@@ -1,4 +1,4 @@
-# Student Attendance System - Web Application
+# Student Management System - Web Application
 
 A modern, web-based student attendance tracking system built with Flask and SQLite.
 
@@ -261,3 +261,4 @@ This project is for educational purposes only. Feel free to modify and use as ne
 ## Author
 
 This Student Attendance System was created as a project demonstration. 
+
