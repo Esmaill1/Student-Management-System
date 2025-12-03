@@ -5,4 +5,5 @@ flask-wtf
 email_validator
 flask-sqlalchemy
 tabulate
-datetime 
+datetime
+Frozen-Flask

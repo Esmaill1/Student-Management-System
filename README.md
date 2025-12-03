@@ -1,6 +1,8 @@
-# Student Attendance System - Web Application
+# Student Attendance System - Static Snapshot
 
-A modern, web-based student attendance tracking system built with Flask and SQLite.
+This repository contains a static snapshot of the Student Attendance System suitable for hosting on static hosts (Cloudflare Pages, GitHub Pages, Netlify, etc.). The `public/` directory contains the fully static site — no Python server is required to serve it. (The original Flask source remains in the repository under `webapp.py` if you need the dynamic app.)
+
+Original project: a web-based student attendance tracking system built with Flask and SQLite.
 
 ## Features
 
